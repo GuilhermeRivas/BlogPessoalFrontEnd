@@ -1,0 +1,20 @@
+.img2{
+    background-image: url(https://blog.grafittiartes.com.br/wp-content/uploads/2019/05/tipos-de-papel-1038x576.png);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.text2{
+    font-weight: bold;
+}
+
+.btnCancelar{
+    margin-right: 20px !important;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
